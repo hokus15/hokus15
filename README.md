@@ -1,6 +1,6 @@
 ### Hi there I'm Jordi Morell 👋
 
-- 🔭 I’m currently working as a Product Manager in [HBX Group](https://www.hotelbeds.com).
+- 🔭 I’m currently working as a Product Manager in [HBX Group](https://www.hbxgroup.com/).
 - 🌱 I’m currently learning Python in my free time.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://linkedin.com/in/jordimorellbosch/)
 
